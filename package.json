@@ -1,7 +1,7 @@
 {
-  "name": "aroma-luxe",
+  "name": "engineerings",
   "version": "1.0.0",
-  "description": "Premium Perfume E-Commerce Store",
+  "description": "Full-Stack E-Commerce Platform",
   "main": "index.js",
   "scripts": {
     "install-all": "cd backend && npm install && cd ../frontend && npm install",
@@ -13,7 +13,7 @@
   },
   "keywords": [
     "ecommerce",
-    "perfume",
+    "engineering",
     "mern",
     "react",
     "nodejs",

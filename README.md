@@ -1,9 +1,9 @@
-# 🌟 Aroma Luxe - Premium Perfume E-Commerce Store
+# 🛠️ Engineerings - Full-Stack E-Commerce Platform
 
-Welcome to **Aroma Luxe**, a full-stack luxury perfume e-commerce website built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This project features a beautiful, premium black and gold theme with smooth animations and a complete shopping experience.
+Welcome to **Engineerings**, a comprehensive full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This project demonstrates modern web development practices with a complete shopping experience, admin panel, and custom design features.
 
-![Aroma Luxe](https://img.shields.io/badge/Version-1.0.0-gold?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Engineerings](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ Welcome to **Aroma Luxe**, a full-stack luxury perfume e-commerce website built 
 - Role-based access control (User/Admin)
 
 ### 🛍️ Product Management
-- Browse luxury perfume collection
+- Browse product collection
 - Advanced filtering (Category, Brand, Price Range)
 - Search functionality
 - Product details with multiple images
@@ -44,17 +44,17 @@ Welcome to **Aroma Luxe**, a full-stack luxury perfume e-commerce website built 
 - Real-time data updates
 
 ### 🎨 Design Features
-- Premium black, gold, and white color scheme
+- Modern responsive design
 - Framer Motion animations
 - TailwindCSS styling
-- Fully responsive design
+- Fully responsive across all devices
 - Smooth hover effects
 - Loading states and transitions
 
 ## 📁 Project Structure
 
 ```
-aroma-luxe/
+engineerings/
 ├── backend/
 │   ├── config/
 │   │   └── db.js                 # MongoDB connection
@@ -128,7 +128,8 @@ aroma-luxe/
 
 #### 1. Clone the repository
 ```bash
-cd e:\ACEDEMIC\aroma-luxe
+git clone https://github.com/Guruprasath-2006/Engineerings.git
+cd Engineerings
 ```
 
 #### 2. Backend Setup
@@ -142,7 +143,7 @@ npm install
 
 # Configure environment variables
 # Edit .env file with your MongoDB URI and JWT secret
-
+roduct
 # Seed sample perfume data
 node seedData.js
 
@@ -173,11 +174,11 @@ Frontend will run on: `http://localhost:3000`
 
 ## 🔑 Demo Credentials
 
-### Admin Account
-- **Email:** admin@aromaluxe.com
+### Admin Accountengineerings.com
 - **Password:** admin123
 
 ### User Account
+- **Email:** user@engineerings
 - **Email:** user@aromaluxe.com
 - **Password:** user123
 
@@ -234,11 +235,11 @@ Frontend will run on: `http://localhost:3000`
 - `DELETE /api/users/:id` - Delete user (Admin)
 
 ## 🎨 Color Palette
-
-- **Primary Black:** `#0a0a0a`
-- **Dark Gray:** `#1a1a1a`
-- **Gold:** `#daa520`
-- **Light Gold:** `#ffd700`
+:** `#0a0a0a`
+- **Secondary:** `#1a1a1a`
+- **Accent:** `#3b82f6`
+- **Highlight:** `#60a5fa`
+- **Background Gold:** `#ffd700`
 - **White:** `#ffffff`
 
 ## 📱 Responsive Design
@@ -260,7 +261,7 @@ The application is fully responsive and works seamlessly on:
 
 ## 🌟 Key Highlights
 
-1. **Premium UI/UX** - Luxury black and gold theme with smooth animations
+1. **Modern UI/UX** - Clean and responsive design with smooth animations
 2. **Complete E-commerce Flow** - From browsing to checkout
 3. **Admin Dashboard** - Full control over products, orders, and users
 4. **Real-time Cart** - LocalStorage persistence across sessions
@@ -274,8 +275,12 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Created with ❤️ for luxury perfume enthusiasts
+Created by Guruprasath
+
+## 🔗 Links
+
+- **GitHub Repository:** [https://github.com/Guruprasath-2006/Engineerings](https://github.com/Guruprasath-2006/Engineerings)
 
 ---
 
-**Aroma Luxe** - Where Luxury Meets Fragrance ✨🌟
+**Engineerings** - A Modern E-Commerce Platform 🛠️
